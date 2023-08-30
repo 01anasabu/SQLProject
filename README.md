@@ -1,4 +1,4 @@
-# EDA COVID-19SQL Project
+# EDA COVID-19 SQL Project
 An exploratory data analysis project on Covid19 cases, deaths, and vaccinations. This project is purely based on SQL Server, employing its innate capabilities: Joins, CTE and Views.
 
 # Analysis
