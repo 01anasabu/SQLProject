@@ -15,5 +15,3 @@ An exploratory data analysis project on Covid19 cases, deaths, and vaccinations.
 11. Vaccination Start Date For Countries
 12. Total No. Of People Vaccinated, Vaccination Percentage Of Population
 13. TOP 5 countries with most people vaccinated.
-14. Comparing Diabetes Prevalence, Cardiovascular Death Rate To Death Percentage
-15. Comparing Smokers to Infected Population And Death Percentage
